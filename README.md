@@ -22,7 +22,7 @@
 git clone https://github.com/alexchen9419/library-system.git
 
 # 進入項目目錄
-cd 你的項目名
+cd library_management
 
 # 建立虛擬環境
 python3 -m venv env
