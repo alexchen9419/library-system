@@ -19,7 +19,7 @@
 
 ```bash
 # 克隆項目
-git clone https://github.com/你的用戶名/你的項目名.git
+git clone https://github.com/alexchen9419/library-system.git
 
 # 進入項目目錄
 cd 你的項目名
